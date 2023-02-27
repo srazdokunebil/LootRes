@@ -1,0 +1,8 @@
+<Bindings>
+    <Binding name="LOOTRES_ROLL" header="LOOTRES">
+        MC_Loot()
+    </Binding>
+    <Binding name="LOOTRES_VIEW" header="LOOTRES">
+        LootRes:View(target)
+    </Binding>
+</Bindings>
